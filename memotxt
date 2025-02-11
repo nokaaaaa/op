@@ -1,0 +1,1 @@
+ros2 topic pub /motor0_speed std_msgs/msg/Float32 "{data: 0.0}"
